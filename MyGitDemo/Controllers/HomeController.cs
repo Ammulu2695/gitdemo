@@ -9,7 +9,7 @@ namespace MyGitDemo.Controllers
     public class HomeController : Controller
     {
         public ActionResult Index()
-        {
+        {//RTYUJIKL
             return View();
         }
 
